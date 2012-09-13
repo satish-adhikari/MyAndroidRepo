@@ -1,0 +1,4 @@
+MyAndroidRepo
+=============
+
+For Android only
